@@ -6,6 +6,7 @@ Travella is an AI-powered web application that transforms the travel experience 
 ![image](https://github.com/user-attachments/assets/9f860dd4-bcbc-454b-a13c-0f09b66a70a8)
 ![image](https://github.com/user-attachments/assets/2726792f-ad91-47b8-8af4-03da42cb77c6)
 ![image](https://github.com/user-attachments/assets/681a5f8e-7704-4c34-b9f5-5523145791b5)
+![image](https://github.com/user-attachments/assets/bc802239-ac5e-4696-8b55-0112906c6532)
 ![image](https://github.com/user-attachments/assets/07461d12-09b9-46fc-ad42-d3a21e84101a)
 ![image](https://github.com/user-attachments/assets/64f66597-b282-4f99-9284-db334e1284ab)
 ![image](https://github.com/user-attachments/assets/f245dcea-f0d7-4b53-ac23-930993952695)
